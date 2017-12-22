@@ -1,0 +1,5 @@
+﻿  Fraction.cpp
+c:\users\humble\documents\visual studio 2017\projects\проект2\проект2\fraction.cpp(46): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\humble\documents\visual studio 2017\projects\проект2\проект2\fraction.cpp(70): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Проект2.vcxproj -> C:\Users\Humble\Documents\Visual Studio 2017\Projects\Проект2\Debug\Проект2.exe
+  Проект2.vcxproj -> C:\Users\Humble\Documents\Visual Studio 2017\Projects\Проект2\Debug\Проект2.pdb (Partial PDB)
